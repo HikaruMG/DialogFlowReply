@@ -7,7 +7,7 @@
 
 3 : pip Freeze **Requirement.txt** to Download all libs
 
-4 : py **app.py** in command line (O_O)!
+4 : py **app.py** in command line :)
 
 <h1>How to Install Virtualenv</h1>
 
